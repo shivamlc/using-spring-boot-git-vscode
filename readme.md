@@ -57,5 +57,11 @@ chmod +x create_spring_boot_project.sh
 ./create_spring_boot_project.sh myproject my-artifact com.example "web,actuator,h2"
 ```
 
+# Accessing the app after it runs
 
+## Access the "/api/welcome/" endpoint
+
+```
+https://organic-space-tribble-7jj47g7xgrwcw675-8080.app.github.dev/api/welcome/
+```
 
